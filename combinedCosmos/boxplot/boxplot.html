@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Boxplot</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+  <script src="https://unpkg.com/3d-force-graph"></script>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.152.2/build/three.module.js"
+      }
+    }
+  </script>
+</head>
+<body>
+    <div>
+        <h2>&nbsp&nbsp&nbspCosmos 시각화: Box Plot</h2>
+    </div>
+  <div id="control">
+  <div id="checkboxes"></div>
+  <div>
+    <input type="text" id="from" placeholder="From 01/21/19">
+    ~
+    <input type="text" id="to" placeholder="To 05/08/02">
+    <button id="applyDateRange">Apply</button>
+  </div>
+  <div id="dateRanges"></div>
+  <div>
+      <h4>Module Types:</h4>
+      <input type="checkbox" id="typeButton-MODULE" value="MODULE"> MODULE
+      <input type="checkbox" id="typeButton-EXCHANGE" value="EXCHANGE"> EXCHANGE
+      <input type="checkbox" id="typeButton-PERSONAL" value="PERSONAL"> PERSONAL
+      <input type="checkbox" id="typeButton-FOUNDER" value="FOUNDER"> FOUNDER
+  </div>
+  <div>
+      <h4>Boxplot Types:</h4>
+      <input type="checkbox" id="boxplotButton--1" value="-1"> null
+      <input type="checkbox" id="boxplotButton-1" value="1"> 이상치 하한값
+      <input type="checkbox" id="boxplotButton-2" value="2"> 하한값
+      <input type="checkbox" id="boxplotButton-3" value="3"> 평균값
+      <input type="checkbox" id="boxplotButton-4" value="4"> 상한값
+      <input type="checkbox" id="boxplotButton-5" value="5"> 이상치 상한값
+  </div>
+</div>
+  <div id="chart" style="overflow: auto;"></div>
+  <div id="date-input">
+      <input type="text" id="fromLineChart" placeholder="From 01/21/19">
+      ~
+      <input type="text" id="toLineChart" placeholder="To 05/08/02">
+      <button id="applyLineChart">Apply</button>
+  </div>
+  <div id="lineChartRanges"></div>
+  <div id="chart2" style="overflow: auto;"></div>
+  <script src="boxplot/main.js"></script>
+</body>
+</html>

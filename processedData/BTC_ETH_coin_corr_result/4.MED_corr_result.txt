@@ -1,0 +1,26 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.180
+Model:                            OLS   Adj. R-squared:                  0.179
+Method:                 Least Squares   F-statistic:                     119.9
+Date:                Fri, 14 Apr 2023   Prob (F-statistic):           8.31e-48
+Time:                        18:02:02   Log-Likelihood:                 3446.3
+No. Observations:                1095   AIC:                            -6887.
+Df Residuals:                    1092   BIC:                            -6872.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0106      0.000     27.924      0.000       0.010       0.011
+BTC           -0.0296      0.012     -2.551      0.011      -0.052      -0.007
+ETH            0.0113      0.012      0.910      0.363      -0.013       0.036
+==============================================================================
+Omnibus:                      224.813   Durbin-Watson:                   0.009
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              437.535
+Skew:                           1.199   Prob(JB):                     9.78e-96
+Kurtosis:                       4.959   Cond. No.                         55.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

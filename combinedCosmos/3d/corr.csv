@@ -1,0 +1,131 @@
+chainName,fig1,fig2,corr,p_values
+cosmos,Binance #02 (Deposit),Coinbase #01,0.5675495599631122,1.3430268347869974e-208
+cosmos,Binance #02 (Deposit),Coinbase #03,0.5207064274105869,4.419709536986319e-170
+cosmos,Binance #02 (Deposit),DokiaCapital #01 (Validator),0.5698639846143438,1.1518562141158738e-210
+cosmos,Binance #03 (Withdraw),Digfinex #01 (Deposit),0.54467190541785,5.031066980156033e-189
+cosmos,Binance #03 (Withdraw),DokiaCapital #01 (Validator),0.5742624242473775,1.2249823061521347e-214
+cosmos,Binance #03 (Withdraw),Upbit #10 (Validator),0.6085686707527332,8.270933266432141e-248
+cosmos,Binance #04 (Staking),Bithumb #02 (Withdraw),0.6314684722851738,2.572758747341533e-272
+cosmos,Binance #04 (Staking),Bithumb #03,0.7903374478392085,0.0
+cosmos,Binance #04 (Staking),Coinbase #06,0.5574696067492017,8.71828059826619e-200
+cosmos,Binance #04 (Staking),Coinbase #08,0.8075222467790988,0.0
+cosmos,Binance #04 (Staking),Digfinex #01 (Deposit),0.6631612840731782,7.5419542801834e-310
+cosmos,Binance #04 (Staking),HitBTC #02,0.7423168138759606,0.0
+cosmos,Binance #04 (Staking),MEXC #01 (Deposit),0.7024491698016055,0.0
+cosmos,Binance #04 (Staking),OKK #01,0.8134203308294959,0.0
+cosmos,Binance #04 (Staking),bonded_tokens_pool,0.8094633434097889,0.0
+cosmos,Binance #04 (Staking),distribution,0.7603442876286683,0.0
+cosmos,Bitforex #01 (Deposit),Coinbase #03,0.604264131007914,2.0083789466480396e-243
+cosmos,Bitforex #01 (Deposit),Coinbase #05,0.5348195073889505,4.728191038299994e-181
+cosmos,Bitforex #01 (Deposit),Coinone #01(Deposit),0.518957881463797,9.308272770558872e-169
+cosmos,Bitforex #01 (Deposit),DokiaCapital #02 (Validator),0.8466594949075308,0.0
+cosmos,Bitforex #01 (Deposit),Ignite,0.8356142978204983,0.0
+cosmos,Bitforex #01 (Deposit),Interchain Foundation #01,0.8238360781229076,0.0
+cosmos,Bitforex #01 (Deposit),Interchain Foundation #02,0.837763132645317,0.0
+cosmos,Bitforex #01 (Deposit),Kraken #01,0.8493938940881318,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #01 (Deposit),0.5583686573333458,1.467932825813003e-200
+cosmos,Bitforex #01 (Deposit),Upbit #10 (Validator),0.745659943912401,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #16 (Staking),0.8990464226789823,0.0
+cosmos,Bithumb #02 (Withdraw),Bithumb #03,0.7173191875665879,0.0
+cosmos,Bithumb #02 (Withdraw),Coinbase #01,0.5084701482901263,5.583674061407891e-161
+cosmos,Bithumb #02 (Withdraw),Coinbase #08,0.660813061161442,6.547888622811694e-307
+cosmos,Bithumb #02 (Withdraw),Digfinex #01 (Deposit),0.586279047326788,8.31463604042746e-226
+cosmos,Bithumb #02 (Withdraw),DokiaCapital #01 (Validator),0.7302294174300316,0.0
+cosmos,Bithumb #02 (Withdraw),MEXC #01 (Deposit),0.6869008899187874,0.0
+cosmos,Bithumb #02 (Withdraw),distribution,0.5386796911421123,3.822553564166766e-184
+cosmos,Bithumb #03,Coinbase #08,0.8197432124482744,0.0
+cosmos,Bithumb #03,Digfinex #01 (Deposit),0.5905316191343137,7.149304924757616e-230
+cosmos,Bithumb #03,DokiaCapital #01 (Validator),0.5830487335595156,9.2906321044628e-223
+cosmos,Bithumb #03,HitBTC #02,0.5750943214727107,2.1372175144901629e-215
+cosmos,Bithumb #03,MEXC #01 (Deposit),0.6679092950906387,7.13390714e-316
+cosmos,Bithumb #03,OKK #01,0.6250337011135008,3.1915109180762524e-265
+cosmos,Bithumb #03,Upbit #02 (Withdraw),0.5270026870281348,6.532929279668148e-175
+cosmos,Bithumb #03,bonded_tokens_pool,0.6853224985586948,0.0
+cosmos,Bithumb #03,distribution,0.7031904054119991,0.0
+cosmos,Coinbase #01,Coinbase #03,0.7609955198173323,0.0
+cosmos,Coinbase #01,Coinbase #08,0.5054346934148297,8.868049262889927e-159
+cosmos,Coinbase #01,DokiaCapital #01 (Validator),0.8286823114465343,0.0
+cosmos,Coinbase #01,Upbit #01 (Deposit),0.588446717816425,7.162104257046512e-228
+cosmos,Coinbase #01,Upbit #02 (Withdraw),0.6036717314364666,7.963704378769689e-243
+cosmos,Coinbase #03,Coinbase #05,0.5929257106902841,3.4568033038615564e-232
+cosmos,Coinbase #03,DokiaCapital #01 (Validator),0.7112722269826207,0.0
+cosmos,Coinbase #03,Ignite,0.6498175319745296,1.6953299826143815e-293
+cosmos,Coinbase #03,Interchain Foundation #01,0.5917320211012829,4.961961917894497e-231
+cosmos,Coinbase #03,Interchain Foundation #02,0.5899725194146729,2.4673887936679156e-229
+cosmos,Coinbase #03,Kraken #01,0.530337763274726,1.6404737830613632e-177
+cosmos,Coinbase #03,Upbit #01 (Deposit),0.5852550935181244,7.758657223643176e-225
+cosmos,Coinbase #03,Upbit #10 (Validator),0.7109714758854524,0.0
+cosmos,Coinbase #03,Upbit #16 (Staking),0.5587216874126668,7.281803035556313e-201
+cosmos,Coinbase #05,Ignite,0.6450278614311284,7.92744369450499e-288
+cosmos,Coinbase #05,Interchain Foundation #02,0.6489270519181956,1.9550157645661563e-292
+cosmos,Coinbase #05,Kraken #01,0.6004618125566694,1.3214729929875421e-239
+cosmos,Coinbase #05,Upbit #10 (Validator),0.5932974634188808,1.5044012407309428e-232
+cosmos,Coinbase #05,Upbit #16 (Staking),0.5999471373048247,4.304697462691194e-239
+cosmos,Coinbase #06,OKK #01,0.505787344893198,4.934840005470531e-159
+cosmos,Coinbase #08,Digfinex #01 (Deposit),0.6462504468750578,2.8945669474451516e-289
+cosmos,Coinbase #08,DokiaCapital #01 (Validator),0.5958427317571542,4.907520599542251e-235
+cosmos,Coinbase #08,HitBTC #02,0.6723107885611721,1.47e-321
+cosmos,Coinbase #08,MEXC #01 (Deposit),0.698027083772583,0.0
+cosmos,Coinbase #08,OKK #01,0.655381149024348,3.256662831723365e-300
+cosmos,Coinbase #08,Upbit #02 (Withdraw),0.5263167192790421,2.219813482305146e-174
+cosmos,Coinbase #08,bonded_tokens_pool,0.7559529118987224,0.0
+cosmos,Coinbase #08,distribution,0.9027673235511641,0.0
+cosmos,Coinone #01(Deposit),Ignite,0.5432132000504237,7.923002226988928e-188
+cosmos,Coinone #01(Deposit),Interchain Foundation #02,0.5559363785147903,1.796702701232364e-198
+cosmos,Coinone #01(Deposit),Kraken #01,0.5803119745352252,3.3408142541692273e-220
+cosmos,Coinone #01(Deposit),Upbit #10 (Validator),0.5283917192068406,5.441313672401629e-176
+cosmos,Coinone #01(Deposit),Upbit #16 (Staking),0.5537785472107608,1.236684670796531e-196
+cosmos,Digfinex #01 (Deposit),DokiaCapital #01 (Validator),0.5630900817614721,1.1594416267859748e-204
+cosmos,Digfinex #01 (Deposit),HitBTC #02,0.6888356490702185,0.0
+cosmos,Digfinex #01 (Deposit),MEXC #01 (Deposit),0.8535665912528789,0.0
+cosmos,Digfinex #01 (Deposit),OKK #01,0.7220683174127389,0.0
+cosmos,Digfinex #01 (Deposit),Upbit #02 (Withdraw),0.5530551159997381,5.074343971000657e-196
+cosmos,Digfinex #01 (Deposit),bonded_tokens_pool,0.6744556765524592,0.0
+cosmos,Digfinex #01 (Deposit),distribution,0.7234898282432,0.0
+cosmos,DokiaCapital #01 (Validator),MEXC #01 (Deposit),0.6074498498292078,1.1583627832346246e-246
+cosmos,DokiaCapital #01 (Validator),Upbit #01 (Deposit),0.593714174567451,5.912835382650041e-233
+cosmos,DokiaCapital #01 (Validator),Upbit #02 (Withdraw),0.613045095702268,1.9277313636894748e-252
+cosmos,DokiaCapital #01 (Validator),Upbit #10 (Validator),0.5687900620819601,1.0529567717590333e-209
+cosmos,DokiaCapital #01 (Validator),distribution,0.5276550274359504,2.0361328035147587e-175
+cosmos,DokiaCapital #02 (Validator),Ignite,0.8213970057323382,0.0
+cosmos,DokiaCapital #02 (Validator),Interchain Foundation #01,0.7515674599735611,0.0
+cosmos,DokiaCapital #02 (Validator),Interchain Foundation #02,0.8945284476529789,0.0
+cosmos,DokiaCapital #02 (Validator),Kraken #01,0.8658217552697898,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #10 (Validator),0.615930926103138,1.8150432253614447e-255
+cosmos,DokiaCapital #02 (Validator),Upbit #16 (Staking),0.8651021807010033,0.0
+cosmos,HitBTC #02,MEXC #01 (Deposit),0.6794892703116362,0.0
+cosmos,HitBTC #02,OKK #01,0.7629653642731171,0.0
+cosmos,HitBTC #02,bonded_tokens_pool,0.7496746148666004,0.0
+cosmos,HitBTC #02,distribution,0.7174213435804108,0.0
+cosmos,Ignite,Interchain Foundation #01,0.6598772163806714,9.546307712883247e-306
+cosmos,Ignite,Interchain Foundation #02,0.9664664022613992,0.0
+cosmos,Ignite,Kraken #01,0.8087032560823393,0.0
+cosmos,Ignite,Upbit #01 (Deposit),0.5430201070897922,1.140062869026268e-187
+cosmos,Ignite,Upbit #10 (Validator),0.7418011188373719,0.0
+cosmos,Ignite,Upbit #16 (Staking),0.8438368484076413,0.0
+cosmos,Ignite,not_bonded_tokens_pool,0.6923233158597839,0.0
+cosmos,Interchain Foundation #01,Interchain Foundation #02,0.6332700481742123,2.478236240924128e-274
+cosmos,Interchain Foundation #01,Kraken #01,0.8042242349424938,0.0
+cosmos,Interchain Foundation #01,Upbit #01 (Deposit),0.5151026238403673,7.240086804425888e-166
+cosmos,Interchain Foundation #01,Upbit #10 (Validator),0.7757143528345529,0.0
+cosmos,Interchain Foundation #01,Upbit #16 (Staking),0.8322316980078232,0.0
+cosmos,Interchain Foundation #02,Kraken #01,0.8365463493150324,0.0
+cosmos,Interchain Foundation #02,Upbit #01 (Deposit),0.5419426343783404,8.647868318717955e-187
+cosmos,Interchain Foundation #02,Upbit #10 (Validator),0.6837382657784841,0.0
+cosmos,Interchain Foundation #02,Upbit #16 (Staking),0.849177036284585,0.0
+cosmos,Interchain Foundation #02,not_bonded_tokens_pool,0.6099523037521792,3.1160069119690536e-249
+cosmos,Kraken #01,Upbit #10 (Validator),0.6991680715469365,0.0
+cosmos,Kraken #01,Upbit #16 (Staking),0.9571790749768282,0.0
+cosmos,Kraken #01,fee_collector,0.5603182194437498,3.0250935599610228e-202
+cosmos,MEXC #01 (Deposit),OKK #01,0.7166369776119557,0.0
+cosmos,MEXC #01 (Deposit),Upbit #02 (Withdraw),0.528442948299536,4.963612983807505e-176
+cosmos,MEXC #01 (Deposit),bonded_tokens_pool,0.6976252423318449,0.0
+cosmos,MEXC #01 (Deposit),distribution,0.7164003824950375,0.0
+cosmos,OKK #01,bonded_tokens_pool,0.8756590194534509,0.0
+cosmos,OKK #01,distribution,0.698190957273503,0.0
+cosmos,Upbit #01 (Deposit),Upbit #02 (Withdraw),0.5478808765482194,1.1143689375734078e-191
+cosmos,Upbit #01 (Deposit),Upbit #10 (Validator),0.5013380703041899,7.640179426509966e-156
+cosmos,Upbit #01 (Deposit),Upbit #16 (Staking),0.5019895114164293,2.6242841988216015e-156
+cosmos,Upbit #10 (Validator),Upbit #16 (Staking),0.7249754705683917,0.0
+cosmos,Upbit #16 (Staking),fee_collector,0.5388701821137394,2.6835564634283584e-184
+cosmos,bonded_tokens_pool,distribution,0.7772896521955814,0.0

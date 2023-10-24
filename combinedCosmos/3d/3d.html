@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>3D Graph</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+  <script src="https://unpkg.com/3d-force-graph"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.152.2/build/three.module.js"
+      }
+    }
+  </script>
+</head>
+<body>
+  <h2>&nbsp&nbsp&nbspCosmos 시각화: 3D Graph</h2>
+  <div id="graph-container">
+    <div id="3d-graph"></div>
+    <div id="info">
+      <h2 id="info-header"></h2>
+      <input id="search-input" type="text" placeholder="Search node..."/>
+      <div id="info-edges"></div>
+    </div>
+  </div>
+  <script type="module" src="3d/main3.js"></script>
+</body>
+</html>

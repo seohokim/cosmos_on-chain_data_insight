@@ -1,0 +1,152 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+#chart, #chart2 {
+    position: relative;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin-bottom: 20px;
+}
+
+svg {
+    display: block;
+}
+
+.axis text {
+    font-size: 10px;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    min-height: 30px; /* 최소 높이 설정 */
+    padding: 10px;
+    background: rgba(64, 163, 245, 0.9);
+    color: #fff;
+    border: 0px;
+    border-radius: 8px; 
+    pointer-events: none;
+    transition: all 0.2s ease-in-out;
+    transform: translate(-50%, -100%); 
+ /* 텍스트 줄 바꿈 비활성화 */
+    word-wrap: break-word;
+    font-size: 12px; /* 여기에서 폰트 크기를 수정합니다 */
+  }
+  
+input[type="checkbox"], input[type="button"], button {
+    border: 0;
+    border-radius: 12px;
+    display: inline-block;
+    padding: 8px 16px;
+    margin-bottom: 4px;
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+    line-height: 1;
+    text-align: center;
+    background-color: #4682B4;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+input[type="checkbox"]:hover, input[type="button"]:hover, button:hover {
+    opacity: 0.9;
+    transform: scale(1.02);
+}
+
+input[type="checkbox"]:checked, input[type="button"]:active, button:active {
+    background-color: #5CACEE;
+}
+body { margin: 0; }
+.monospace {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+#graph-container {
+  display: flex;
+  padding: 10px;
+  margin-left: 120px;
+  margin-top: 20px;
+}
+
+#info {
+    margin-left: 20px;
+    min-width: 350px;
+    max-height: 700px; /* Set maximum height * /
+    font-size: 14px; /* Adjust the font size as needed */
+    display: flex;
+    flex-direction: column;
+}
+#info-header {
+
+    flex-shrink: 0; /* This will prevent the header from shrinking if the content exceeds the maximum height */
+}
+  
+#info-edges {
+    min-height: 700px;
+    max-width: 680px;
+    min-width: 680px;
+    border: 1px solid #5CACEE;
+    overflow-y: auto; /* Add scrollbar if content exceeds height */
+}
+#date-input{
+    padding: 10px;
+}
+#control{
+    padding: 10px
+}
+#scatter {
+    margin-left: 20px;
+}
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-button {
+    font-size: 1.5em;
+    padding: 15px;
+    margin: 15px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.nav-button {
+    border: 0;
+    border-radius: 12px;
+    padding: 30px 60px;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: #4682B4;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.nav-button:hover {
+    opacity: 0.9;
+    transform: scale(1.02);
+}
+
+.nav-button:active {
+    background-color: #5CACEE;
+}

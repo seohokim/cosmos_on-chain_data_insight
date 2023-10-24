@@ -1,0 +1,283 @@
+chainName,fig1,fig2,corr,p_values
+cosmos,Binance #02 (Deposit),Coinbase #01,0.5675495599631122,1.3430268347869974e-208
+cosmos,Binance #02 (Deposit),Coinbase #03,0.5207064274105869,4.419709536986319e-170
+cosmos,Binance #02 (Deposit),DokiaCapital #01 (Validator),0.5698639846143438,1.1518562141158738e-210
+cosmos,Binance #03 (Withdraw),Digfinex #01 (Deposit),0.54467190541785,5.031066980156033e-189
+cosmos,Binance #03 (Withdraw),DokiaCapital #01 (Validator),0.5742624242473775,1.2249823061521347e-214
+cosmos,Binance #03 (Withdraw),Upbit #10 (Validator),0.6085686707527332,8.270933266432141e-248
+cosmos,Binance #04 (Staking),Bithumb #02 (Withdraw),0.6314684722851738,2.572758747341533e-272
+cosmos,Binance #04 (Staking),Bithumb #03,0.7903374478392085,0.0
+cosmos,Binance #04 (Staking),Coinbase #06,0.5574696067492017,8.71828059826619e-200
+cosmos,Binance #04 (Staking),Coinbase #08,0.8075222467790988,0.0
+cosmos,Binance #04 (Staking),Digfinex #01 (Deposit),0.6631612840731782,7.5419542801834e-310
+cosmos,Binance #04 (Staking),HitBTC #02,0.7423168138759606,0.0
+cosmos,Binance #04 (Staking),MEXC #01 (Deposit),0.7024491698016055,0.0
+cosmos,Binance #04 (Staking),OKK #01,0.8134203308294959,0.0
+cosmos,Binance #04 (Staking),bonded_tokens_pool,0.8094633434097889,0.0
+cosmos,Binance #04 (Staking),distribution,0.7603442876286683,0.0
+cosmos,Bitforex #01 (Deposit),Coinbase #03,0.604264131007914,2.0083789466480396e-243
+cosmos,Bitforex #01 (Deposit),Coinbase #05,0.5348195073889505,4.728191038299994e-181
+cosmos,Bitforex #01 (Deposit),Coinone #01(Deposit),0.518957881463797,9.308272770558872e-169
+cosmos,Bitforex #01 (Deposit),DokiaCapital #02 (Validator),0.8466594949075308,0.0
+cosmos,Bitforex #01 (Deposit),Ignite,0.8356142978204983,0.0
+cosmos,Bitforex #01 (Deposit),Interchain Foundation #01,0.8238360781229076,0.0
+cosmos,Bitforex #01 (Deposit),Interchain Foundation #02,0.837763132645317,0.0
+cosmos,Bitforex #01 (Deposit),Kraken #01,0.8493938940881318,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #01 (Deposit),0.5583686573333458,1.467932825813003e-200
+cosmos,Bitforex #01 (Deposit),Upbit #10 (Validator),0.745659943912401,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #11 (Staking),0.8462347947725846,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #12 (Staking),0.8618899282463055,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #13 (Staking),0.8892427374187566,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #14 (Staking),0.8685400719209133,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #15 (Staking),0.8754588049234353,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #16 (Staking),0.8990464226789823,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #17 (Staking),0.8615099256756603,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #18 (Staking),0.8811782668235992,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #19 (Staking),0.8872062401129088,0.0
+cosmos,Bitforex #01 (Deposit),Upbit #20 (Staking),0.9038239371693618,0.0
+cosmos,Bithumb #02 (Withdraw),Bithumb #03,0.7173191875665879,0.0
+cosmos,Bithumb #02 (Withdraw),Coinbase #01,0.5084701482901263,5.583674061407891e-161
+cosmos,Bithumb #02 (Withdraw),Coinbase #08,0.660813061161442,6.547888622811694e-307
+cosmos,Bithumb #02 (Withdraw),Digfinex #01 (Deposit),0.586279047326788,8.31463604042746e-226
+cosmos,Bithumb #02 (Withdraw),DokiaCapital #01 (Validator),0.7302294174300316,0.0
+cosmos,Bithumb #02 (Withdraw),MEXC #01 (Deposit),0.6869008899187874,0.0
+cosmos,Bithumb #02 (Withdraw),distribution,0.5386796911421123,3.822553564166766e-184
+cosmos,Bithumb #03,Coinbase #08,0.8197432124482744,0.0
+cosmos,Bithumb #03,Digfinex #01 (Deposit),0.5905316191343137,7.149304924757616e-230
+cosmos,Bithumb #03,DokiaCapital #01 (Validator),0.5830487335595156,9.2906321044628e-223
+cosmos,Bithumb #03,HitBTC #02,0.5750943214727107,2.1372175144901629e-215
+cosmos,Bithumb #03,MEXC #01 (Deposit),0.6679092950906387,7.13390714e-316
+cosmos,Bithumb #03,OKK #01,0.6250337011135008,3.1915109180762524e-265
+cosmos,Bithumb #03,Upbit #02 (Withdraw),0.5270026870281348,6.532929279668148e-175
+cosmos,Bithumb #03,bonded_tokens_pool,0.6853224985586948,0.0
+cosmos,Bithumb #03,distribution,0.7031904054119991,0.0
+cosmos,Coinbase #01,Coinbase #03,0.7609955198173323,0.0
+cosmos,Coinbase #01,Coinbase #08,0.5054346934148297,8.868049262889927e-159
+cosmos,Coinbase #01,DokiaCapital #01 (Validator),0.8286823114465343,0.0
+cosmos,Coinbase #01,Upbit #01 (Deposit),0.588446717816425,7.162104257046512e-228
+cosmos,Coinbase #01,Upbit #02 (Withdraw),0.6036717314364666,7.963704378769689e-243
+cosmos,Coinbase #03,Coinbase #05,0.5929257106902841,3.4568033038615564e-232
+cosmos,Coinbase #03,DokiaCapital #01 (Validator),0.7112722269826207,0.0
+cosmos,Coinbase #03,Ignite,0.6498175319745296,1.6953299826143815e-293
+cosmos,Coinbase #03,Interchain Foundation #01,0.5917320211012829,4.961961917894497e-231
+cosmos,Coinbase #03,Interchain Foundation #02,0.5899725194146729,2.4673887936679156e-229
+cosmos,Coinbase #03,Kraken #01,0.530337763274726,1.6404737830613632e-177
+cosmos,Coinbase #03,Upbit #01 (Deposit),0.5852550935181244,7.758657223643176e-225
+cosmos,Coinbase #03,Upbit #10 (Validator),0.7109714758854524,0.0
+cosmos,Coinbase #03,Upbit #11 (Staking),0.5375986574092346,2.834065441760889e-183
+cosmos,Coinbase #03,Upbit #12 (Staking),0.5880188276328215,1.8359649235801145e-227
+cosmos,Coinbase #03,Upbit #13 (Staking),0.5583318118246468,1.5792908132946628e-200
+cosmos,Coinbase #03,Upbit #14 (Staking),0.5609812232546026,8.03187997198844e-203
+cosmos,Coinbase #03,Upbit #15 (Staking),0.5792390710752812,3.3053004468857014e-219
+cosmos,Coinbase #03,Upbit #16 (Staking),0.5587216874126668,7.281803035556313e-201
+cosmos,Coinbase #03,Upbit #17 (Staking),0.5870526570725086,1.5301652020428488e-226
+cosmos,Coinbase #03,Upbit #18 (Staking),0.5781973835126788,3.034416085725607e-218
+cosmos,Coinbase #03,Upbit #19 (Staking),0.5422043374602619,5.290154150222792e-187
+cosmos,Coinbase #03,Upbit #20 (Staking),0.5632476341054452,8.437367709490398e-205
+cosmos,Coinbase #05,Ignite,0.6450278614311284,7.92744369450499e-288
+cosmos,Coinbase #05,Interchain Foundation #02,0.6489270519181956,1.9550157645661563e-292
+cosmos,Coinbase #05,Kraken #01,0.6004618125566694,1.3214729929875421e-239
+cosmos,Coinbase #05,Upbit #10 (Validator),0.5932974634188808,1.5044012407309428e-232
+cosmos,Coinbase #05,Upbit #11 (Staking),0.5854282167431002,5.321550517320833e-225
+cosmos,Coinbase #05,Upbit #12 (Staking),0.6259903117045604,2.883945328177266e-266
+cosmos,Coinbase #05,Upbit #13 (Staking),0.6004179817105186,1.4614131812512374e-239
+cosmos,Coinbase #05,Upbit #14 (Staking),0.6044656501409378,1.256152673155725e-243
+cosmos,Coinbase #05,Upbit #15 (Staking),0.6166144385580286,3.4476133348757505e-256
+cosmos,Coinbase #05,Upbit #16 (Staking),0.5999471373048247,4.304697462691194e-239
+cosmos,Coinbase #05,Upbit #17 (Staking),0.6271810208091517,1.4301573311645303e-267
+cosmos,Coinbase #05,Upbit #18 (Staking),0.6162689221225713,7.987180105106276e-256
+cosmos,Coinbase #05,Upbit #19 (Staking),0.5860512127413752,1.3676025195088308e-225
+cosmos,Coinbase #05,Upbit #20 (Staking),0.6007245511497779,7.225593320845415e-240
+cosmos,Coinbase #06,OKK #01,0.505787344893198,4.934840005470531e-159
+cosmos,Coinbase #08,Digfinex #01 (Deposit),0.6462504468750578,2.8945669474451516e-289
+cosmos,Coinbase #08,DokiaCapital #01 (Validator),0.5958427317571542,4.907520599542251e-235
+cosmos,Coinbase #08,HitBTC #02,0.6723107885611721,1.47e-321
+cosmos,Coinbase #08,MEXC #01 (Deposit),0.698027083772583,0.0
+cosmos,Coinbase #08,OKK #01,0.655381149024348,3.256662831723365e-300
+cosmos,Coinbase #08,Upbit #02 (Withdraw),0.5263167192790421,2.219813482305146e-174
+cosmos,Coinbase #08,bonded_tokens_pool,0.7559529118987224,0.0
+cosmos,Coinbase #08,distribution,0.9027673235511641,0.0
+cosmos,Coinone #01(Deposit),Ignite,0.5432132000504237,7.923002226988928e-188
+cosmos,Coinone #01(Deposit),Interchain Foundation #02,0.5559363785147903,1.796702701232364e-198
+cosmos,Coinone #01(Deposit),Kraken #01,0.5803119745352252,3.3408142541692273e-220
+cosmos,Coinone #01(Deposit),Upbit #10 (Validator),0.5283917192068406,5.441313672401629e-176
+cosmos,Coinone #01(Deposit),Upbit #11 (Staking),0.5959507087549788,3.844898891482321e-235
+cosmos,Coinone #01(Deposit),Upbit #12 (Staking),0.5770756017249924,3.274135879660106e-217
+cosmos,Coinone #01(Deposit),Upbit #13 (Staking),0.5622756396662318,5.9792962406876375e-204
+cosmos,Coinone #01(Deposit),Upbit #14 (Staking),0.591941978154253,3.1081678669155613e-231
+cosmos,Coinone #01(Deposit),Upbit #15 (Staking),0.5681621897308805,3.824979934936055e-209
+cosmos,Coinone #01(Deposit),Upbit #16 (Staking),0.5537785472107608,1.236684670796531e-196
+cosmos,Coinone #01(Deposit),Upbit #17 (Staking),0.5779593002903629,5.031014751492385e-218
+cosmos,Coinone #01(Deposit),Upbit #18 (Staking),0.5574762943437058,8.603679657044337e-200
+cosmos,Coinone #01(Deposit),Upbit #19 (Staking),0.5728775638026368,2.216277566480649e-213
+cosmos,Coinone #01(Deposit),Upbit #20 (Staking),0.5355218316245978,1.303339959053073e-181
+cosmos,Digfinex #01 (Deposit),DokiaCapital #01 (Validator),0.5630900817614721,1.1594416267859748e-204
+cosmos,Digfinex #01 (Deposit),HitBTC #02,0.6888356490702185,0.0
+cosmos,Digfinex #01 (Deposit),MEXC #01 (Deposit),0.8535665912528789,0.0
+cosmos,Digfinex #01 (Deposit),OKK #01,0.7220683174127389,0.0
+cosmos,Digfinex #01 (Deposit),Upbit #02 (Withdraw),0.5530551159997381,5.074343971000657e-196
+cosmos,Digfinex #01 (Deposit),bonded_tokens_pool,0.6744556765524592,0.0
+cosmos,Digfinex #01 (Deposit),distribution,0.7234898282432,0.0
+cosmos,DokiaCapital #01 (Validator),MEXC #01 (Deposit),0.6074498498292078,1.1583627832346246e-246
+cosmos,DokiaCapital #01 (Validator),Upbit #01 (Deposit),0.593714174567451,5.912835382650041e-233
+cosmos,DokiaCapital #01 (Validator),Upbit #02 (Withdraw),0.613045095702268,1.9277313636894748e-252
+cosmos,DokiaCapital #01 (Validator),Upbit #10 (Validator),0.5687900620819601,1.0529567717590333e-209
+cosmos,DokiaCapital #01 (Validator),distribution,0.5276550274359504,2.0361328035147587e-175
+cosmos,DokiaCapital #02 (Validator),Ignite,0.8213970057323382,0.0
+cosmos,DokiaCapital #02 (Validator),Interchain Foundation #01,0.7515674599735611,0.0
+cosmos,DokiaCapital #02 (Validator),Interchain Foundation #02,0.8945284476529789,0.0
+cosmos,DokiaCapital #02 (Validator),Kraken #01,0.8658217552697898,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #10 (Validator),0.615930926103138,1.8150432253614447e-255
+cosmos,DokiaCapital #02 (Validator),Upbit #11 (Staking),0.8631358103494051,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #12 (Staking),0.8437576529316817,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #13 (Staking),0.8577609216293035,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #14 (Staking),0.8537489855399144,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #15 (Staking),0.8496669715387768,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #16 (Staking),0.8651021807010033,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #17 (Staking),0.8431934284095486,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #18 (Staking),0.8537692959362595,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #19 (Staking),0.8722814995273815,0.0
+cosmos,DokiaCapital #02 (Validator),Upbit #20 (Staking),0.8663851757738955,0.0
+cosmos,HitBTC #02,MEXC #01 (Deposit),0.6794892703116362,0.0
+cosmos,HitBTC #02,OKK #01,0.7629653642731171,0.0
+cosmos,HitBTC #02,bonded_tokens_pool,0.7496746148666004,0.0
+cosmos,HitBTC #02,distribution,0.7174213435804108,0.0
+cosmos,Ignite,Interchain Foundation #01,0.6598772163806714,9.546307712883247e-306
+cosmos,Ignite,Interchain Foundation #02,0.9664664022613992,0.0
+cosmos,Ignite,Kraken #01,0.8087032560823393,0.0
+cosmos,Ignite,Upbit #01 (Deposit),0.5430201070897922,1.140062869026268e-187
+cosmos,Ignite,Upbit #10 (Validator),0.7418011188373719,0.0
+cosmos,Ignite,Upbit #11 (Staking),0.8318764470366082,0.0
+cosmos,Ignite,Upbit #12 (Staking),0.8356053257655185,0.0
+cosmos,Ignite,Upbit #13 (Staking),0.8409534238133358,0.0
+cosmos,Ignite,Upbit #14 (Staking),0.8339782830465223,0.0
+cosmos,Ignite,Upbit #15 (Staking),0.8374109960541362,0.0
+cosmos,Ignite,Upbit #16 (Staking),0.8438368484076413,0.0
+cosmos,Ignite,Upbit #17 (Staking),0.8353527195148139,0.0
+cosmos,Ignite,Upbit #18 (Staking),0.8412333924593518,0.0
+cosmos,Ignite,Upbit #19 (Staking),0.8430655674492622,0.0
+cosmos,Ignite,Upbit #20 (Staking),0.846070968305902,0.0
+cosmos,Ignite,not_bonded_tokens_pool,0.6923233158597839,0.0
+cosmos,Interchain Foundation #01,Interchain Foundation #02,0.6332700481742123,2.478236240924128e-274
+cosmos,Interchain Foundation #01,Kraken #01,0.8042242349424938,0.0
+cosmos,Interchain Foundation #01,Upbit #01 (Deposit),0.5151026238403673,7.240086804425888e-166
+cosmos,Interchain Foundation #01,Upbit #10 (Validator),0.7757143528345529,0.0
+cosmos,Interchain Foundation #01,Upbit #11 (Staking),0.8274301836132258,0.0
+cosmos,Interchain Foundation #01,Upbit #12 (Staking),0.8250781284195235,0.0
+cosmos,Interchain Foundation #01,Upbit #13 (Staking),0.8259185816724912,0.0
+cosmos,Interchain Foundation #01,Upbit #14 (Staking),0.8316727278520819,0.0
+cosmos,Interchain Foundation #01,Upbit #15 (Staking),0.8252978908913451,0.0
+cosmos,Interchain Foundation #01,Upbit #16 (Staking),0.8322316980078232,0.0
+cosmos,Interchain Foundation #01,Upbit #17 (Staking),0.8255131250473672,0.0
+cosmos,Interchain Foundation #01,Upbit #18 (Staking),0.826543632184564,0.0
+cosmos,Interchain Foundation #01,Upbit #19 (Staking),0.8376936232953991,0.0
+cosmos,Interchain Foundation #01,Upbit #20 (Staking),0.8303944225076415,0.0
+cosmos,Interchain Foundation #02,Kraken #01,0.8365463493150324,0.0
+cosmos,Interchain Foundation #02,Upbit #01 (Deposit),0.5419426343783404,8.647868318717955e-187
+cosmos,Interchain Foundation #02,Upbit #10 (Validator),0.6837382657784841,0.0
+cosmos,Interchain Foundation #02,Upbit #11 (Staking),0.8369489706092894,0.0
+cosmos,Interchain Foundation #02,Upbit #12 (Staking),0.8373432833419614,0.0
+cosmos,Interchain Foundation #02,Upbit #13 (Staking),0.8458635283907044,0.0
+cosmos,Interchain Foundation #02,Upbit #14 (Staking),0.837598407715093,0.0
+cosmos,Interchain Foundation #02,Upbit #15 (Staking),0.8406495728554172,0.0
+cosmos,Interchain Foundation #02,Upbit #16 (Staking),0.849177036284585,0.0
+cosmos,Interchain Foundation #02,Upbit #17 (Staking),0.8369092477204054,0.0
+cosmos,Interchain Foundation #02,Upbit #18 (Staking),0.8448149841439399,0.0
+cosmos,Interchain Foundation #02,Upbit #19 (Staking),0.8496049580861582,0.0
+cosmos,Interchain Foundation #02,Upbit #20 (Staking),0.8519322636357277,0.0
+cosmos,Interchain Foundation #02,not_bonded_tokens_pool,0.6099523037521792,3.1160069119690536e-249
+cosmos,Kraken #01,Upbit #10 (Validator),0.6991680715469365,0.0
+cosmos,Kraken #01,Upbit #11 (Staking),0.9532471308052222,0.0
+cosmos,Kraken #01,Upbit #12 (Staking),0.9536349589635302,0.0
+cosmos,Kraken #01,Upbit #13 (Staking),0.9597511303201762,0.0
+cosmos,Kraken #01,Upbit #14 (Staking),0.9719459788761176,0.0
+cosmos,Kraken #01,Upbit #15 (Staking),0.9527882991629129,0.0
+cosmos,Kraken #01,Upbit #16 (Staking),0.9571790749768282,0.0
+cosmos,Kraken #01,Upbit #17 (Staking),0.9544829808279549,0.0
+cosmos,Kraken #01,Upbit #18 (Staking),0.9494787284614772,0.0
+cosmos,Kraken #01,Upbit #19 (Staking),0.9552462089104968,0.0
+cosmos,Kraken #01,Upbit #20 (Staking),0.9421507679235326,0.0
+cosmos,Kraken #01,fee_collector,0.5603182194437498,3.0250935599610228e-202
+cosmos,MEXC #01 (Deposit),OKK #01,0.7166369776119557,0.0
+cosmos,MEXC #01 (Deposit),Upbit #02 (Withdraw),0.528442948299536,4.963612983807505e-176
+cosmos,MEXC #01 (Deposit),bonded_tokens_pool,0.6976252423318449,0.0
+cosmos,MEXC #01 (Deposit),distribution,0.7164003824950375,0.0
+cosmos,OKK #01,bonded_tokens_pool,0.8756590194534509,0.0
+cosmos,OKK #01,distribution,0.698190957273503,0.0
+cosmos,Upbit #01 (Deposit),Upbit #02 (Withdraw),0.5478808765482194,1.1143689375734078e-191
+cosmos,Upbit #01 (Deposit),Upbit #10 (Validator),0.5013380703041899,7.640179426509966e-156
+cosmos,Upbit #01 (Deposit),Upbit #11 (Staking),0.5242376892247078,8.889282818787417e-173
+cosmos,Upbit #01 (Deposit),Upbit #12 (Staking),0.5338798451838669,2.6386862492299256e-180
+cosmos,Upbit #01 (Deposit),Upbit #13 (Staking),0.5010261031068501,1.2734910385027088e-155
+cosmos,Upbit #01 (Deposit),Upbit #14 (Staking),0.5243749186899883,6.973191258254421e-173
+cosmos,Upbit #01 (Deposit),Upbit #15 (Staking),0.5068516262613568,8.379651560600517e-160
+cosmos,Upbit #01 (Deposit),Upbit #16 (Staking),0.5019895114164293,2.6242841988216015e-156
+cosmos,Upbit #01 (Deposit),Upbit #17 (Staking),0.5366913617633738,1.5142400905157728e-182
+cosmos,Upbit #01 (Deposit),Upbit #18 (Staking),0.5046538195347945,3.2391048441118806e-158
+cosmos,Upbit #01 (Deposit),Upbit #20 (Staking),0.5118313697329716,1.921741832481564e-163
+cosmos,Upbit #10 (Validator),Upbit #11 (Staking),0.7114850882463325,0.0
+cosmos,Upbit #10 (Validator),Upbit #12 (Staking),0.7482955778831286,0.0
+cosmos,Upbit #10 (Validator),Upbit #13 (Staking),0.7261454526515649,0.0
+cosmos,Upbit #10 (Validator),Upbit #14 (Staking),0.7321299567180293,0.0
+cosmos,Upbit #10 (Validator),Upbit #15 (Staking),0.7355052926712903,0.0
+cosmos,Upbit #10 (Validator),Upbit #16 (Staking),0.7249754705683917,0.0
+cosmos,Upbit #10 (Validator),Upbit #17 (Staking),0.7483289712197506,0.0
+cosmos,Upbit #10 (Validator),Upbit #18 (Staking),0.7333808293370139,0.0
+cosmos,Upbit #10 (Validator),Upbit #19 (Staking),0.7095637842466438,0.0
+cosmos,Upbit #10 (Validator),Upbit #20 (Staking),0.7247206685525753,0.0
+cosmos,Upbit #11 (Staking),Upbit #12 (Staking),0.9642726629242906,0.0
+cosmos,Upbit #11 (Staking),Upbit #13 (Staking),0.9567326545286462,0.0
+cosmos,Upbit #11 (Staking),Upbit #14 (Staking),0.9779261607951819,0.0
+cosmos,Upbit #11 (Staking),Upbit #15 (Staking),0.9518603049214571,0.0
+cosmos,Upbit #11 (Staking),Upbit #16 (Staking),0.9539113662693897,0.0
+cosmos,Upbit #11 (Staking),Upbit #17 (Staking),0.9658056522381487,0.0
+cosmos,Upbit #11 (Staking),Upbit #18 (Staking),0.9482061427489532,0.0
+cosmos,Upbit #11 (Staking),Upbit #19 (Staking),0.9655036094204974,0.0
+cosmos,Upbit #11 (Staking),Upbit #20 (Staking),0.9384485799180194,0.0
+cosmos,Upbit #11 (Staking),fee_collector,0.5672721886922003,2.3695481470226588e-208
+cosmos,Upbit #12 (Staking),Upbit #13 (Staking),0.9692002494674595,0.0
+cosmos,Upbit #12 (Staking),Upbit #14 (Staking),0.9781865476093279,0.0
+cosmos,Upbit #12 (Staking),Upbit #15 (Staking),0.9834584265812621,0.0
+cosmos,Upbit #12 (Staking),Upbit #16 (Staking),0.9664738534351346,0.0
+cosmos,Upbit #12 (Staking),Upbit #17 (Staking),0.9965043947672994,0.0
+cosmos,Upbit #12 (Staking),Upbit #18 (Staking),0.9810006594398614,0.0
+cosmos,Upbit #12 (Staking),Upbit #19 (Staking),0.9556135818709377,0.0
+cosmos,Upbit #12 (Staking),Upbit #20 (Staking),0.9628336836947556,0.0
+cosmos,Upbit #12 (Staking),fee_collector,0.5611623478735218,5.587988519588166e-203
+cosmos,Upbit #13 (Staking),Upbit #14 (Staking),0.9775288751997371,0.0
+cosmos,Upbit #13 (Staking),Upbit #15 (Staking),0.9806968986155731,0.0
+cosmos,Upbit #13 (Staking),Upbit #16 (Staking),0.9917547823825967,0.0
+cosmos,Upbit #13 (Staking),Upbit #17 (Staking),0.9702766321767693,0.0
+cosmos,Upbit #13 (Staking),Upbit #18 (Staking),0.9857708853965728,0.0
+cosmos,Upbit #13 (Staking),Upbit #19 (Staking),0.9801528758445363,0.0
+cosmos,Upbit #13 (Staking),Upbit #20 (Staking),0.9756914723096894,0.0
+cosmos,Upbit #13 (Staking),fee_collector,0.5466730739393324,1.1209109790067894e-190
+cosmos,Upbit #14 (Staking),Upbit #15 (Staking),0.9720966447856081,0.0
+cosmos,Upbit #14 (Staking),Upbit #16 (Staking),0.9745801270958023,0.0
+cosmos,Upbit #14 (Staking),Upbit #17 (Staking),0.9797114450929763,0.0
+cosmos,Upbit #14 (Staking),Upbit #18 (Staking),0.9680290477677862,0.0
+cosmos,Upbit #14 (Staking),Upbit #19 (Staking),0.9738818297812959,0.0
+cosmos,Upbit #14 (Staking),Upbit #20 (Staking),0.9589605056245617,0.0
+cosmos,Upbit #14 (Staking),fee_collector,0.5609463939322918,8.612006216161257e-203
+cosmos,Upbit #15 (Staking),Upbit #16 (Staking),0.9776341135865493,0.0
+cosmos,Upbit #15 (Staking),Upbit #17 (Staking),0.9850055038942427,0.0
+cosmos,Upbit #15 (Staking),Upbit #18 (Staking),0.9915811062155591,0.0
+cosmos,Upbit #15 (Staking),Upbit #19 (Staking),0.9667126976652303,0.0
+cosmos,Upbit #15 (Staking),Upbit #20 (Staking),0.9734352093283539,0.0
+cosmos,Upbit #15 (Staking),fee_collector,0.5484509953434346,3.7357096058921945e-192
+cosmos,Upbit #16 (Staking),Upbit #17 (Staking),0.9675741395346742,0.0
+cosmos,Upbit #16 (Staking),Upbit #18 (Staking),0.982616331256505,0.0
+cosmos,Upbit #16 (Staking),Upbit #19 (Staking),0.9885430457443605,0.0
+cosmos,Upbit #16 (Staking),Upbit #20 (Staking),0.9837473331307839,0.0
+cosmos,Upbit #16 (Staking),fee_collector,0.5388701821137394,2.6835564634283584e-184
+cosmos,Upbit #17 (Staking),Upbit #18 (Staking),0.9815757192206165,0.0
+cosmos,Upbit #17 (Staking),Upbit #19 (Staking),0.9567238930903517,0.0
+cosmos,Upbit #17 (Staking),Upbit #20 (Staking),0.9639716556290332,0.0
+cosmos,Upbit #17 (Staking),fee_collector,0.5649423428446755,2.7330423079514216e-206
+cosmos,Upbit #18 (Staking),Upbit #19 (Staking),0.9717089543604405,0.0
+cosmos,Upbit #18 (Staking),Upbit #20 (Staking),0.9782594442950743,0.0
+cosmos,Upbit #18 (Staking),fee_collector,0.5434449372301074,5.1178301617648e-188
+cosmos,Upbit #19 (Staking),Upbit #20 (Staking),0.9723272408510406,0.0
+cosmos,Upbit #19 (Staking),fee_collector,0.540954390114929,5.510706868942661e-186
+cosmos,Upbit #20 (Staking),fee_collector,0.5250177519119731,2.2330021867647164e-173
+cosmos,bonded_tokens_pool,distribution,0.7772896521955814,0.0
